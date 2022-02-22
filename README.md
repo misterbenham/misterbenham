@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @misterbenham, also known as Harry.
 - 👀 I’m interested in graduate or entry level software engineering roles.
-- 🌱 I’m currently learning Java and Python.
+- 🌱 I’m currently learning Python, Java, and Flutter.
 - 💞️ I’m looking to collaborate on beginner projects.
 - 📫 How to reach me: harrybenham@hotmail.co.uk
 
